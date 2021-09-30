@@ -9,3 +9,6 @@ test용
 + 내컴퓨터에서 비주얼 스튜디오 코드로 수정후 커밋하고 깃허브로 올림 push
 
 [호스팅주소](https://jhmn23.github.io/git-test/)
+
+https://blog.naver.com/drv98
+https://velog.io/@drv98/series/Git-%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC
